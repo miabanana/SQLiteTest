@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteTest</string>
+    <string name="please_fill">欄位請勿留空</string>
+    <string name="add_success">新增成功</string>
+    <string name="delete_success">刪除成功</string>
+    <string name="cant_find">查無資料</string>
+    <string name="no_data">沒有資料</string>
+</resources>
